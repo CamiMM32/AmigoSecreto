@@ -4,7 +4,7 @@
 
 <br>
 
-![Screenshot da aplicação Amigo Secreto](./demonstracao.gif).
+![Screenshot da aplicação Amigo Secreto](./demonstracao.gif)
 
 Este é um projeto de uma aplicação web simples para realizar sorteios de "Amigo Secreto" (Secret Santa). Desenvolvido como um desafio para praticar e aprimorar habilidades em lógica de programação utilizando HTML, CSS e JavaScript.
 
