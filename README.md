@@ -1,6 +1,6 @@
 # 🎁 Amigo Secreto
 
-**[Clique aqui para ver o projeto ao vivo!]([https://CamiMM32.github.io/AmigoSecreto/](http://127.0.0.1:5500/challenge-amigo-secreto_pt-main/index.html)**
+**[Clique aqui para ver o projeto ao vivo!](http://127.0.0.1:5500/challenge-amigo-secreto_pt-main/index.html)**
 
 <br>
 
